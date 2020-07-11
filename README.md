@@ -4,8 +4,10 @@
 <hr>
 ### Collection of Notes
 
-..* Notes
-..* Resources
-..* Notebooks
-..* Certificate
+* Notes
+* Resources
+* Notebooks
+* Certificate
 
+<hr>
+> The world is one Big Data Science Problem - Andrew McAfee
